@@ -1,0 +1,14 @@
+{
+  "name": "technicalinductioncypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "run tests"
+  },
+  "author": "Aisha Mazhar",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.0"
+  }
+}
